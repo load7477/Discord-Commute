@@ -70,4 +70,4 @@ async def on_interaction(interaction):
                     f"출근중인 어드민 : {n} \n", ephemeral=True
                 )
 
-client.run("MTA4MTY3NTE5MTYxNDE4OTcxOA.G-yR65.6wbGbLN3S_ntBYYeTrFSEB6deJJWLA9TmQFImo")
+client.run("")
